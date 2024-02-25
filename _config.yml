@@ -83,23 +83,17 @@ author:
   name             : "UIUC PHIL CLUB"
   avatar           : "profile.png"
   bio              : "A student-led organization that provides a platform for individuals interested in exploring philosophical questions, theories, and discussions. It often welcomes students from all backgrounds, regardless of their prior knowledge of philosophy, encouraging a diverse exchange of ideas and perspectives. "
-  location         : "Gregory Hall"
+  location         : "Gregory Hall (810 S Wright St, Urbana, IL 61801)"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "uiucphilclub"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
