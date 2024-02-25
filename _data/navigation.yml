@@ -15,8 +15,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Past Themes"
+    url: /themes/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "About Us"
+    url: /about/

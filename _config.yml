@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "UIUC Philosophy Club"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "UIUC Phil Club"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "UIUC PHIL CLUB"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "A student-led organization that provides a platform for individuals interested in exploring philosophical questions, theories, and discussions. It often welcomes students from all backgrounds, regardless of their prior knowledge of philosophy, encouraging a diverse exchange of ideas and perspectives. "
+  location         : "Gregory Hall"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
